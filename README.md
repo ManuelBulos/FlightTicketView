@@ -11,11 +11,22 @@ A simple UITableView with custom UITableViewCells that resemble a flight ticket 
 
 <img src="Screenshots/2.png" height="400">
 
-## Installing
+## Requirements
 
-Go to your XCode Project  -> General -> Embedded Binaries
-Select the folder where you downloaded the framework and click on FlightTicketView.framework
-You should now be able to use the FlightTicketView framework.
+- iOS 10.2+
+- Xcode 9
+
+## Integration
+
+#### CocoaPods (iOS 8+)
+
+You can use [CocoaPods](http://cocoapods.org/) to install `FlightTicketView` by adding it to your `Podfile`:
+
+```ruby
+target 'MyApp' do
+    pod 'FlightTicketView'
+end
+```
 
 ## Deployment
 
