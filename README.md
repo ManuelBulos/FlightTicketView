@@ -4,8 +4,6 @@ A simple UITableView with custom UITableViewCells that resemble a flight ticket 
 
 ## Screenshots
 
-### Portrait
-
 <img src="Screenshots/portrait.png" height="600"> 
 
 ## Requirements
