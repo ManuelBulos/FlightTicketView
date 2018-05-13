@@ -31,12 +31,12 @@ end
 ## Deployment
 
 Start by importing the framework to your project
-```
+```swift
 import FlightTicketView
 ```
 
 Subclass UITicketViewController and set the FlightTicketView container frame
-```
+```swift
 class ViewController: UITicketViewController {
     override func viewDidLoad() {
     super.viewDidLoad()
@@ -47,7 +47,7 @@ class ViewController: UITicketViewController {
 ```
 
 Create addTickets() method and fill the tickets array
-```
+```swift
 func addTickets() {
     // Create a stop over
     let stopOver = StopOver(id: 1,
