@@ -3,13 +3,13 @@
 A simple UITableView with custom UITableViewCells that resemble a flight ticket with holes and separator.
 
 ## Screenshots
-### Portrait
-
-<img src="Screenshots/1.png" height="600"> 
-
 ### Landscape
 
-<img src="Screenshots/2.png" height="400">
+<img src="Screenshots/landscape.png" height="400">
+
+### Portrait
+
+<img src="Screenshots/portrait.png" height="600"> 
 
 ## Requirements
 
