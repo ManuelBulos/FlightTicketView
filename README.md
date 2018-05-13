@@ -74,7 +74,7 @@ func addTickets() {
 ```
 
 That's it! you can add as many stop overs and tickets as you want.
-Don't forget to check out the example project for more ideas.
+Don't forget to check out the demo project for more ideas.
 
 ## License
 
