@@ -1,6 +1,6 @@
 # FlightTicketView
 
-A simple UITableView with custom UITableViewCells that resemble a flight ticket with holes and separator.
+Simple UIViewController containing a UITableView with custom Cells that resemble a flight ticket with holes and separator.
 
 ## Screenshots
 
